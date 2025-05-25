@@ -25,10 +25,11 @@ A simple and user-friendly web application built with **Flask** and **SQLite** f
 •	Save the files as shown.
 
 •	Create a virtual environment and install Flask and SQLAlchemy:
-            bash
-            pip install Flask SQLAlchemy
+   bash
+   pip install Flask SQLAlchemy
+   
 •	Run the Flask app:
-Bash
-            python app.py
+   bash
+   python app.py
 
 5. Open your browser and navigate to `http://127.0.0.1:5000`
